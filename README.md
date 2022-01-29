@@ -27,6 +27,6 @@ Algumas das minhas redes
     <a href="https://twitter.com/Lui5Felipe" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" align="center" height="32" target="_blank"></a>
     <a href="https://www.linkedin.com/in/luisfelipeofernandes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" height="32" target="_blank"></a>
     <a href="https://www.twitch.tv/lui5felipe" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" align="center" height="32" target="_blank"></a>
-    <a href="https://steamcommunity.com/id/lui5felipe/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" align="center" height="32" target="_blank"></a>
+    <a href="https://steamcommunity.com/id/lui5felipe/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" align="center" height="32" target="_blank"></a><br>
     <a href="https://open.spotify.com/user/12143041092" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" align="center" height="32" target="_blank"></a>
   </div>
