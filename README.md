@@ -1,19 +1,20 @@
-### Hi there 👋
+### Hey, sou o Luís Felipe! 
 
-<!--
-**lui5felipe/lui5felipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente atuo no suporte à infraestrutura de aplicações (principalmente JAVA)
+- 🌱 Tenho focado em melhorar meu conhecimento em JAVA e quero aprender mais sobre front-end
+- 😄 Meus pronomes são: Ele/Dele (He/Him)
+- ⚡ Fun fact: Amo dois esportes nada comuns: Fórmula 1 e Tênis
 
-Here are some ideas to get you started:
+<div id="stats-git">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=lui5felipe&show_icons=true&count_private=true&theme=dark&include_all_commits=true">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lui5felipe&theme=dark&layout=compact&langs_count=10">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lui5felipe&show_icons=true&count_private=true&theme=cobalt&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lui5felipe&theme=cobalt&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+##
+Linguagens e Ferramentas que eu uso/conheço:
+<div style="display: inline_block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" align="center" height="36" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" align="center" height="36" width="36"/>
+<div>
 
+##
